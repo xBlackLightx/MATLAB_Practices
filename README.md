@@ -1,1 +1,1 @@
-Matlab Practices made by me.
+Yaptığım MATLAB alıştırmaları ve konu çalışmalarım.
